@@ -19,7 +19,7 @@ An e-commerce frontend focused on a seamless gadget-buying experience. Built for
 - **Data:** Currently using local JSON / Mock data for demonstration.
 
 # Project Structure
-text```
+```
 src/
 ├── app/          # Core Setup
 ├── components/   # All UIs and pages
@@ -31,6 +31,7 @@ src/
 ├── styles/       # Global CSS/Tailwind files and font
 ├── types/        # Global TypeScript interfaces (Product, User, Order, Cart Item, Dashboard Stats)
 └── utils/        # Helper functions
+```
 
 # Future Improvements & Roadmap
 
